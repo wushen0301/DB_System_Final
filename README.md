@@ -19,7 +19,7 @@
 pip install nicegui
 ```
 
-## 預設帳號
+## 預設員工帳號
 - 1.管理員帳號:
   - 帳號: demo_manager
   - 密碼: password
