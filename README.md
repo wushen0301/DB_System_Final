@@ -17,3 +17,12 @@
 
 ```bash
 pip install nicegui
+```
+
+## 預設帳號
+- 1.管理員帳號:
+  - 帳號: demo_manager
+  - 密碼: password
+- 2.一般員工帳號:
+  - 帳號: demo_staff1
+  - 密碼: 123
